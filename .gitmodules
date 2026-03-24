@@ -16,3 +16,6 @@
 [submodule ".repos/gpu-operator"]
 	path = .repos/gpu-operator
 	url = https://github.com/NVIDIA/gpu-operator.git
+[submodule ".repos/k8s-device-plugin"]
+	path = .repos/k8s-device-plugin
+	url = https://github.com/NVIDIA/k8s-device-plugin.git
