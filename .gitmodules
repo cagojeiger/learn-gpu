@@ -10,3 +10,6 @@
 [submodule ".repos/nvidia-container-toolkit"]
 	path = .repos/nvidia-container-toolkit
 	url = https://github.com/NVIDIA/nvidia-container-toolkit.git
+[submodule ".repos/open-gpu-kernel-modules"]
+	path = .repos/open-gpu-kernel-modules
+	url = https://github.com/NVIDIA/open-gpu-kernel-modules.git
