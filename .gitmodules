@@ -1,0 +1,12 @@
+[submodule ".repos/runtime-spec"]
+	path = .repos/runtime-spec
+	url = https://github.com/opencontainers/runtime-spec.git
+[submodule ".repos/runc"]
+	path = .repos/runc
+	url = https://github.com/opencontainers/runc.git
+[submodule ".repos/containerd"]
+	path = .repos/containerd
+	url = https://github.com/containerd/containerd.git
+[submodule ".repos/nvidia-container-toolkit"]
+	path = .repos/nvidia-container-toolkit
+	url = https://github.com/NVIDIA/nvidia-container-toolkit.git
