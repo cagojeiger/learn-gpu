@@ -13,3 +13,6 @@
 [submodule ".repos/open-gpu-kernel-modules"]
 	path = .repos/open-gpu-kernel-modules
 	url = https://github.com/NVIDIA/open-gpu-kernel-modules.git
+[submodule ".repos/gpu-operator"]
+	path = .repos/gpu-operator
+	url = https://github.com/NVIDIA/gpu-operator.git
